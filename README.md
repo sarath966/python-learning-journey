@@ -36,12 +36,23 @@ Welcome to my Python Learning Journey!
 
 \- Student Result System
 
+
+
 \### Day 4
 
 \- Loops
-- range()
-- break, continue statements
-- Password Checker
+
+* range()
+* break, continue statements
+* Password Checker
+
+
+
+\### Day 5
+
+* Functions
+* Parameters
+* Return Values
 
 
 
