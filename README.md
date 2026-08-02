@@ -56,6 +56,26 @@ Welcome to my Python Learning Journey!
 
 
 
+\### Day 6
+
+* Lists in Python
+
+
+
+Concepts Learned:
+
+\- List Creation
+
+\- Indexing
+
+\- List Methods
+
+\- Loops with Lists
+
+
+
+
+
 \## Goal
 
 
