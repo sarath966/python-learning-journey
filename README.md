@@ -74,6 +74,22 @@ Concepts Learned:
 
 
 
+\### Day 7
+
+* Tuples and Dictionaries in Python
+
+Concepts Learned:
+
+\- Tuple and Dictionaries Creation
+
+\- Indexing
+
+\- There Methods
+
+\- Traversal using Loops
+
+
+
 
 
 \## Goal
