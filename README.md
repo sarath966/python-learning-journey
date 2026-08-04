@@ -90,6 +90,20 @@ Concepts Learned:
 
 
 
+\### Day 8
+
+* Strings in Python
+
+Concepts Learned:
+
+\- String indexing
+
+\- String slicing
+
+\- Methods
+
+
+
 
 
 \## Goal
