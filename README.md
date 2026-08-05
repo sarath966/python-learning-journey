@@ -104,6 +104,22 @@ Concepts Learned:
 
 
 
+\### Day 9
+
+* Sets and Basic File Handling in Python
+
+Concepts Learned:
+
+\- set Creation
+
+\- There Methods
+
+\- Read and write operations in file handling
+
+
+
+
+
 
 
 \## Goal

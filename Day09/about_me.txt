@@ -1,0 +1,3 @@
+Name : Sarath
+College : Amrita
+Goal : Data Scientist
