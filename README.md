@@ -118,6 +118,16 @@ Concepts Learned:
 
 
 
+\### Day 10
+
+* Exception Handling and Modules in Python
+
+Concepts Learned:
+
+\- try and except
+
+\- modules(math, random,..)
+
 
 
 
