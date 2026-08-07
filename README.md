@@ -130,6 +130,26 @@ Concepts Learned:
 
 
 
+\### Day 11
+
+* Lists, Dictionaries and Problem Solving
+
+
+
+Concepts Learned:
+
+\- Lists
+
+\- Dictionaries
+
+\- Loops
+
+\- Conditions
+
+\- Functions
+
+
+
 
 
 \## Goal
