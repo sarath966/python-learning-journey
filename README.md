@@ -150,6 +150,26 @@ Concepts Learned:
 
 
 
+\### Day 12
+
+* Functions and Problem Solving
+
+Concepts Learned:
+
+\- Functions
+
+\- Parameters
+
+\- Return values
+
+\- Lists
+
+\- Dictionaries
+
+\- Problem decomposition
+
+
+
 
 
 \## Goal
