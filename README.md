@@ -170,6 +170,56 @@ Concepts Learned:
 
 
 
+\### Day 13 — Data Processing with Lists and Dictionaries
+
+
+
+\*\*Topics Learned:\*\*
+
+\- List of dictionaries
+
+\- Accessing dictionary values inside lists
+
+\- Filtering structured data
+
+\- Data processing
+
+\- Functions
+
+\- Basic statistics
+
+\- Finding maximum values
+
+\- E-commerce data analysis
+
+
+
+\*\*What I Practiced:\*\*
+
+\- Working with lists containing dictionaries
+
+\- Displaying student information
+
+\- Calculating average marks
+
+\- Filtering students based on marks
+
+\- Finding the highest-scoring student
+
+\- Processing e-commerce product data
+
+\- Calculating total units sold
+
+\- Calculating total revenue
+
+\- Finding the best-selling product
+
+\- Finding the product with the highest revenue
+
+\- Filtering products based on price
+
+
+
 
 
 \## Goal
