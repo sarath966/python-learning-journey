@@ -220,6 +220,32 @@ Concepts Learned:
 
 
 
+\### Day 14
+
+
+
+Topic: Sorting, Filtering and Data Transformation
+
+
+
+Concepts Learned:
+
+\- sorted()
+
+\- reverse=True
+
+\- key=
+
+\- Sorting structured data
+
+\- Filtering data
+
+\- Multiple conditions
+
+\- Data analysis
+
+
+
 
 
 \## Goal
