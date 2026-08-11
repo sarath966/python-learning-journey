@@ -246,6 +246,44 @@ Concepts Learned:
 
 
 
+\### Day 15 — Lambda, Map and Filter
+
+
+
+\*\*Topics Learned:\*\*
+
+\- Lambda functions
+
+\- map()
+
+\- filter()
+
+\- Data transformation
+
+\- Data filtering
+
+
+
+\*\*What I Practiced:\*\*
+
+\- Creating lambda functions
+
+\- Using map() to transform data
+
+\- Using filter() to select data
+
+\- Combining map() and filter()
+
+\- Processing student records
+
+\- Extracting names and marks from structured data
+
+\- Adding bonus marks using map()
+
+\- Filtering high-scoring students
+
+
+
 
 
 \## Goal
